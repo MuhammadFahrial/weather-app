@@ -10,7 +10,7 @@ const humadity = document.querySelector(".humadity");
 const wind = document.querySelector(".wind");
 const error = document.querySelector(".error");
 
-const apiKey = "fa7d85558294a948716203547ae4788b";
+const apiKey = "";
 const apiUrl =
   "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
